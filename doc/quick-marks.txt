@@ -1,0 +1,9 @@
+*quick-marks.txt* Simple easy mark alternative
+Author:   Ryan Young <yungryy@gmail.com>
+License:  MIT (see |license|)
+
+
+Help Coming soon...
+
+
+vim:tw=78:ts=8:et:ft=help:norl:
